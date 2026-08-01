@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- NATIVE GITHUB AUTO-SWITCHING ANIMATED BANNER -->
-<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner.svg?v=5#gh-dark-mode-only" alt="VENKTESH BHUSHAN Banner" width="100%">
-<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner-light.svg?v=5#gh-light-mode-only" alt="VENKTESH BHUSHAN Banner" width="100%">
+<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner.svg?v=6#gh-dark-mode-only" alt="VENKTESH BHUSHAN Banner" width="100%">
+<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner-light.svg?v=6#gh-light-mode-only" alt="VENKTESH BHUSHAN Banner" width="100%">
 
 <br><br>
 
 <!-- SWINGING LANYARD BADGE -->
-<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/lanyard.svg?v=5" alt="Interactive Lanyard Badge" width="360px">
+<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/lanyard.svg?v=6" alt="Interactive Lanyard Badge" width="360px">
 
 <br><br>
 
