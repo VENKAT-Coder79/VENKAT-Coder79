@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- NATIVE GITHUB AUTO-SWITCHING ANIMATED BANNER -->
-<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner.svg?v=3#gh-dark-mode-only" alt="VENKTESH BHUSHAN Banner" width="100%">
-<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner-light.svg?v=3#gh-light-mode-only" alt="VENKTESH BHUSHAN Banner" width="100%">
+<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner.svg?v=5#gh-dark-mode-only" alt="VENKTESH BHUSHAN Banner" width="100%">
+<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner-light.svg?v=5#gh-light-mode-only" alt="VENKTESH BHUSHAN Banner" width="100%">
 
 <br><br>
 
 <!-- SWINGING LANYARD BADGE -->
-<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/lanyard.svg?v=3" alt="Interactive Lanyard Badge" width="360px">
+<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/lanyard.svg?v=5" alt="Interactive Lanyard Badge" width="360px">
 
 <br><br>
 
@@ -53,14 +53,14 @@
 ### 📊 Performance & Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/stats.svg?v=3" alt="Developer Stats" width="48%">
-  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/langs.svg?v=3" alt="Language Stats" width="48%">
+  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/stats.svg?v=5" alt="Developer Stats" width="48%">
+  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/langs.svg?v=5" alt="Language Stats" width="48%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/trophies.svg?v=3" alt="Achievements Trophies" width="100%">
+  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/trophies.svg?v=5" alt="Achievements Trophies" width="100%">
 </div>
 
 ---
@@ -78,7 +78,7 @@
 ### 🐍 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/output/github-snake.svg?v=3" alt="Snake Contribution Grid" width="100%">
+  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/output/github-snake.svg?v=5" alt="Snake Contribution Grid" width="100%">
 </div>
 
 ---
