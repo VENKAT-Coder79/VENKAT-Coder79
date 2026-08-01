@@ -1,17 +1,16 @@
 <div align="center">
 
-<!-- AUTO-SWITCHING ANIMATED BANNER -->
+<!-- AUTO-SWITCHING ANIMATED BANNER (Fixed Full URLs for GitHub Camo Proxy) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img alt="VENKTESH BHUSHAN Banner" src="banner.svg?v=1" width="100%">
-  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/output/github-snake.svg?v=1" alt="Snake Contribution Grid" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner-light.svg?v=2">
+  <img alt="VENKTESH BHUSHAN Banner" src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/banner.svg?v=2" width="100%">
 </picture>
 
 <br><br>
 
 <!-- SWINGING LANYARD BADGE -->
-<img src="lanyard.svg?v=1" alt="Interactive Lanyard Badge" width="360px">
+<img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/lanyard.svg?v=2" alt="Interactive Lanyard Badge" width="360px">
 
 <br><br>
 
@@ -57,14 +56,14 @@
 ### 📊 Performance & Analytics
 
 <div align="center">
-  <img src="stats.svg?v=1" alt="Developer Stats" width="48%">
-  <img src="langs.svg?v=1" alt="Language Stats" width="48%">
+  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/stats.svg?v=2" alt="Developer Stats" width="48%">
+  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/langs.svg?v=2" alt="Language Stats" width="48%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="trophies.svg?v=1" alt="Achievements Trophies" width="100%">
+  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/main/trophies.svg?v=2" alt="Achievements Trophies" width="100%">
 </div>
 
 ---
@@ -73,16 +72,16 @@
 
 | Project Name | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| ⚡ **Algorithmic Solver** | High-efficiency C++ data structures & competitive programming library. | `C++` `STL` | [Explore](https://github.com/VENKAT-Coder79/VENKAT-coderRICH) |
-| 🌐 **Modern Portfolio** | Interactive animated portfolio showcasing web projects & components. | `HTML` `CSS` `JS` | [Explore](https://github.com/VENKAT-Coder79/VENKAT-coderRICH) |
-| ☕ **Dev Dashboard** | Real-time browser-based developer activity tracker & utility hub. | `JavaScript` | [Explore](https://github.com/VENKAT-Coder79/VENKAT-coderRICH) |
+| ⚡ **Algorithmic Solver** | High-efficiency C++ data structures & competitive programming library. | `C++` `STL` | [Explore](https://github.com/VENKAT-Coder79/VENKAT-Coder79) |
+| 🌐 **Modern Portfolio** | Interactive animated portfolio showcasing web projects & components. | `HTML` `CSS` `JS` | [Explore](https://github.com/VENKAT-Coder79/VENKAT-Coder79) |
+| ☕ **Dev Dashboard** | Real-time browser-based developer activity tracker & utility hub. | `JavaScript` | [Explore](https://github.com/VENKAT-Coder79/VENKAT-Coder79) |
 
 ---
 
 ### 🐍 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-coderRICH/output/github-snake.svg?v=1" alt="Snake Contribution Grid" width="100%">
+  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/output/github-snake.svg?v=2" alt="Snake Contribution Grid" width="100%">
 </div>
 
 ---
