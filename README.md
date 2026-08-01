@@ -5,6 +5,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
   <img alt="VENKTESH BHUSHAN Banner" src="banner.svg?v=1" width="100%">
+  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-Coder79/output/github-snake.svg?v=1" alt="Snake Contribution Grid" width="100%">
 </picture>
 
 <br><br>
