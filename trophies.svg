@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120422" />
+      <stop offset="100%" stop-color="#240a42" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes trophyPop {
+      0% { transform: scale(0.8); opacity: 0; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+    .trophy-cell { animation: trophyPop 0.6s ease-out forwards; }
+  </style>
+
+  <!-- Trophy 1 -->
+  <g class="trophy-cell" transform="translate(0, 0)">
+    <rect width="210" height="220" rx="14" fill="url(#cardBg)" stroke="#ff2a8d" stroke-width="1.5" />
+    <text x="105" y="45" text-anchor="middle" font-size="34">⚡</text>
+    <text x="105" y="95" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="800" fill="#ffffff">Quick Coder</text>
+    <text x="105" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#ff75c3">C++ Mastery</text>
+    <rect x="65" y="150" width="80" height="28" rx="14" fill="url(#gold)" />
+    <text x="105" y="169" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="900" fill="#000000">S RANK</text>
+  </g>
+
+  <!-- Trophy 2 -->
+  <g class="trophy-cell" transform="translate(230, 0)">
+    <rect width="210" height="220" rx="14" fill="url(#cardBg)" stroke="#9d4edf" stroke-width="1.5" />
+    <text x="105" y="45" text-anchor="middle" font-size="34">🧠</text>
+    <text x="105" y="95" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="800" fill="#ffffff">Problem Solver</text>
+    <text x="105" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#a78bfa">DSA Specialist</text>
+    <rect x="65" y="150" width="80" height="28" rx="14" fill="url(#gold)" />
+    <text x="105" y="169" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="900" fill="#000000">S RANK</text>
+  </g>
+
+  <!-- Trophy 3 -->
+  <g class="trophy-cell" transform="translate(460, 0)">
+    <rect width="210" height="220" rx="14" fill="url(#cardBg)" stroke="#00f2fe" stroke-width="1.5" />
+    <text x="105" y="45" text-anchor="middle" font-size="34">🎨</text>
+    <text x="105" y="95" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="800" fill="#ffffff">Web Architect</text>
+    <text x="105" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#38bdf8">HTML/CSS/JS</text>
+    <rect x="65" y="150" width="80" height="28" rx="14" fill="url(#gold)" />
+    <text x="105" y="169" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="900" fill="#000000">A+ RANK</text>
+  </g>
+
+  <!-- Trophy 4 -->
+  <g class="trophy-cell" transform="translate(690, 0)">
+    <rect width="210" height="220" rx="14" fill="url(#cardBg)" stroke="#ff2a8d" stroke-width="1.5" />
+    <text x="105" y="45" text-anchor="middle" font-size="34">🔥</text>
+    <text x="105" y="95" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="800" fill="#ffffff">Streak Master</text>
+    <text x="105" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#ff75c3">Daily Commits</text>
+    <rect x="65" y="150" width="80" height="28" rx="14" fill="url(#gold)" />
+    <text x="105" y="169" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="900" fill="#000000">S RANK</text>
+  </g>
+</svg>
