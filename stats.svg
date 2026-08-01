@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 220" width="450" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 220" width="440" height="220">
   <defs>
     <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#120422" />
@@ -15,18 +15,15 @@
       0% { stroke-dashoffset: 283; }
       100% { stroke-dashoffset: 40; }
     }
-    @keyframes slideIn {
-      from { transform: translateX(-20px); opacity: 0; }
-      to { transform: translateX(0); opacity: 1; }
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
     }
     .ring { animation: rankRing 1.8s ease-out forwards; stroke-dasharray: 283; }
-    .row-1 { animation: slideIn 0.5s ease-out 0.2s forwards; }
-    .row-2 { animation: slideIn 0.5s ease-out 0.4s forwards; }
-    .row-3 { animation: slideIn 0.5s ease-out 0.6s forwards; }
-    .row-4 { animation: slideIn 0.5s ease-out 0.8s forwards; }
+    .fade-row { animation: fadeIn 0.8s ease-out forwards; }
   </style>
 
-  <rect width="450" height="220" rx="14" fill="url(#cardBg)" stroke="#ff2a8d" stroke-opacity="0.4" stroke-width="1.5" />
+  <rect width="440" height="220" rx="14" fill="url(#cardBg)" stroke="#ff2a8d" stroke-opacity="0.4" stroke-width="1.5" />
 
   <!-- Rank Circle -->
   <g transform="translate(80, 110)">
@@ -35,25 +32,24 @@
     <text x="0" y="8" text-anchor="middle" font-family="'Poppins', sans-serif" font-size="26" font-weight="900" fill="#ffffff">A+</text>
   </g>
 
-  <!-- Stat Rows -->
+  <!-- Stat Rows with Fixed Y Coordinates (Prevents Overlap) -->
   <g transform="translate(160, 45)" font-family="'Segoe UI', Roboto, sans-serif">
-    <text x="0" y="0" font-size="16" font-weight="800" fill="#ff2a8d">OVERALL STATS</text>
+    <text x="0" y="0" font-size="15" font-weight="800" fill="#ff2a8d" letter-spacing="1">OVERALL STATS</text>
     
-    <g class="row-1" transform="translate(0, 30)">
-      <text x="0" y="0" font-size="13" fill="#cbd5e1">Total Commits</text>
-      <text x="240" y="0" text-anchor="end" font-size="14" font-weight="700" fill="#00f2fe">1,420+</text>
-    </g>
-    <g class="row-2" transform="translate(0, 60)">
-      <text x="0" y="0" font-size="13" fill="#cbd5e1">Pull Requests</text>
-      <text x="240" y="0" text-anchor="end" font-size="14" font-weight="700" fill="#ff75c3">85+</text>
-    </g>
-    <g class="row-3" transform="translate(0, 90)">
-      <text x="0" y="0" font-size="13" fill="#cbd5e1">Total Stars</text>
-      <text x="240" y="0" text-anchor="end" font-size="14" font-weight="700" fill="#00f2fe">340+</text>
-    </g>
-    <g class="row-4" transform="translate(0, 120)">
-      <text x="0" y="0" font-size="13" fill="#cbd5e1">Contributions</text>
-      <text x="240" y="0" text-anchor="end" font-size="14" font-weight="700" fill="#ff2a8d">1,850+</text>
-    </g>
+    <!-- Row 1: Commits -->
+    <text class="fade-row" x="0" y="32" font-size="13" fill="#cbd5e1">Total Commits</text>
+    <text class="fade-row" x="240" y="32" text-anchor="end" font-size="14" font-weight="700" fill="#00f2fe">1,420+</text>
+
+    <!-- Row 2: Pull Requests -->
+    <text class="fade-row" x="0" y="62" font-size="13" fill="#cbd5e1">Pull Requests</text>
+    <text class="fade-row" x="240" y="62" text-anchor="end" font-size="14" font-weight="700" fill="#ff75c3">85+</text>
+
+    <!-- Row 3: Stars -->
+    <text class="fade-row" x="0" y="92" font-size="13" fill="#cbd5e1">Total Stars</text>
+    <text class="fade-row" x="240" y="92" text-anchor="end" font-size="14" font-weight="700" fill="#00f2fe">340+</text>
+
+    <!-- Row 4: Contributions -->
+    <text class="fade-row" x="0" y="122" font-size="13" fill="#cbd5e1">Contributions</text>
+    <text class="fade-row" x="240" y="122" text-anchor="end" font-size="14" font-weight="700" fill="#ff2a8d">1,850+</text>
   </g>
 </svg>
