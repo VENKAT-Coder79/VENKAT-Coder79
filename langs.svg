@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 220" width="450" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 220" width="440" height="220">
   <defs>
     <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#120422" />
@@ -11,29 +11,25 @@
     .bar { animation: fillBar 1.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards; }
   </style>
 
-  <rect width="450" height="220" rx="14" fill="url(#cardBg)" stroke="#9d4edf" stroke-opacity="0.4" stroke-width="1.5" />
+  <rect width="440" height="220" rx="14" fill="url(#cardBg)" stroke="#9d4edf" stroke-opacity="0.4" stroke-width="1.5" />
   
-  <text x="30" y="40" font-family="'Poppins', sans-serif" font-size="16" font-weight="800" fill="#9d4edf">MOST USED LANGUAGES</text>
+  <text x="30" y="40" font-family="'Poppins', sans-serif" font-size="15" font-weight="800" fill="#9d4edf" letter-spacing="1">MOST USED LANGUAGES</text>
 
-  <g transform="translate(30, 60)" font-family="sans-serif" font-size="13" font-weight="600">
-    <!-- C++ -->
-    <text x="0" y="20" fill="#ffffff">C++ (35%)</text>
-    <rect x="0" y="28" width="390" height="10" rx="5" fill="#240c42" />
-    <rect class="bar" x="0" y="28" width="136" height="10" rx="5" fill="#f34b7d" />
+  <g transform="translate(30, 45)" font-family="sans-serif" font-size="13" font-weight="600">
+    <text x="0" y="22" fill="#ffffff">C++ (35%)</text>
+    <rect x="0" y="30" width="380" height="10" rx="5" fill="#240c42" />
+    <rect class="bar" x="0" y="30" width="133" height="10" rx="5" fill="#f34b7d" />
 
-    <!-- JavaScript -->
     <text x="0" y="60" fill="#ffffff">JavaScript (30%)</text>
-    <rect x="0" y="68" width="390" height="10" rx="5" fill="#240c42" />
-    <rect class="bar" x="0" y="68" width="117" height="10" rx="5" fill="#f7df1e" />
+    <rect x="0" y="68" width="380" height="10" rx="5" fill="#240c42" />
+    <rect class="bar" x="0" y="68" width="114" height="10" rx="5" fill="#f7df1e" />
 
-    <!-- HTML & CSS -->
-    <text x="0" y="100" fill="#ffffff">HTML &amp; CSS (25%)</text>
-    <rect x="0" y="108" width="390" height="10" rx="5" fill="#240c42" />
-    <rect class="bar" x="0" y="108" width="97" height="10" rx="5" fill="#e34c26" />
+    <text x="0" y="98" fill="#ffffff">HTML &amp; CSS (25%)</text>
+    <rect x="0" y="106" width="380" height="10" rx="5" fill="#240c42" />
+    <rect class="bar" x="0" y="106" width="95" height="10" rx="5" fill="#e34c26" />
 
-    <!-- Problem Solving / Logic -->
-    <text x="0" y="140" fill="#ffffff">Problem Solving &amp; SQL (10%)</text>
-    <rect x="0" y="148" width="390" height="10" rx="5" fill="#240c42" />
-    <rect class="bar" x="0" y="148" width="40" height="10" rx="5" fill="#00f2fe" />
+    <text x="0" y="136" fill="#ffffff">Problem Solving &amp; SQL (10%)</text>
+    <rect x="0" y="144" width="380" height="10" rx="5" fill="#240c42" />
+    <rect class="bar" x="0" y="144" width="38" height="10" rx="5" fill="#00f2fe" />
   </g>
 </svg>
