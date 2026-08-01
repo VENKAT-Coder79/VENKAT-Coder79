@@ -238,7 +238,7 @@
         </g>
 
         <!-- Inline Embedded Base64 Data URI Image -->
-        <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==" x="0" y="0" width="440" height="610" opacity="0.01" />
+        <image href="animated_image.png" x="0" y="0" width="440" height="610" opacity="0.01" />
       </g>
     </g>
 
