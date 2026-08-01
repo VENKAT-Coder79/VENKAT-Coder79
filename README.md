@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**VENKAT-Coder79/VENKAT-Coder79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- AUTO-SWITCHING ANIMATED BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img alt="VENKTESH BHUSHAN Banner" src="banner.svg?v=1" width="100%">
+</picture>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- SWINGING LANYARD BADGE -->
+<img src="lanyard.svg?v=1" alt="Interactive Lanyard Badge" width="360px">
+
+<br><br>
+
+# 🚀 Welcome to My Creative Space!
+### **Dream • Build • Debug • Repeat**
+
+<p align="center">
+  <a href="https://github.com/VENKAT-Coder79">
+    <img src="https://img.shields.io/github/followers/VENKAT-Coder79?label=Followers&style=for-the-badge&color=ff2a8d&logo=github" alt="GitHub Followers">
+  </a>
+  <a href="mailto:venkatbhushan79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-venkatbhushan79%40gmail.com-9d4edf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=VENKAT-Coder79&color=ff2a8d&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Role:** Computer Science Student & Passionate Developer
+- ⚡ **Focus:** High-Performance C++ Applications & Modern Web Development
+- 🧠 **Superpower:** Analytical Problem Solving & Algorithm Optimization
+- ☕ **Fuel:** Coffee, Curiosity, and Clean Code
+
+---
+
+### 🛠️ Tech Stack & Skillset
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+---
+
+### 📊 Performance & Analytics
+
+<div align="center">
+  <img src="stats.svg?v=1" alt="Developer Stats" width="48%">
+  <img src="langs.svg?v=1" alt="Language Stats" width="48%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="trophies.svg?v=1" alt="Achievements Trophies" width="100%">
+</div>
+
+---
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| ⚡ **Algorithmic Solver** | High-efficiency C++ data structures & competitive programming library. | `C++` `STL` | [Explore](https://github.com/VENKAT-Coder79/VENKAT-coderRICH) |
+| 🌐 **Modern Portfolio** | Interactive animated portfolio showcasing web projects & components. | `HTML` `CSS` `JS` | [Explore](https://github.com/VENKAT-Coder79/VENKAT-coderRICH) |
+| ☕ **Dev Dashboard** | Real-time browser-based developer activity tracker & utility hub. | `JavaScript` | [Explore](https://github.com/VENKAT-Coder79/VENKAT-coderRICH) |
+
+---
+
+### 🐍 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VENKAT-Coder79/VENKAT-coderRICH/output/github-snake.svg?v=1" alt="Snake Contribution Grid" width="100%">
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with ❤️ by <b>VENKTESH BHUSHAN</b></sub>
+</div>
